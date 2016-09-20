@@ -6,3 +6,4 @@ Upload simple "test.txt" file with sample content inside.
 
 Upload with GitBash
 Upload with Git GUI
+
