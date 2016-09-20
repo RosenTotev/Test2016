@@ -1,0 +1,3 @@
+name = PeterPetroffPetrofski
+size = 150
+email = peterPetroffPetrofski@homework.softuni.abv.bg
