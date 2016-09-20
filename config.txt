@@ -1,0 +1,9 @@
+name = PeterPetroffPetrofski
+size = 150
+email = peterPetroffPetrofski@homework.softuni.abv.bg
+
+user2
+name = GoshkoGoshkoffGoshkofffski
+size = 150 
+age = 33
+email = GoshkoGoshkoffGoshkofffski@goshkoGoshkofffskii.com

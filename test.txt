@@ -7,3 +7,10 @@ Upload simple "test.txt" file with sample content inside.
 Upload with GitBash
 Upload with Git GUI
 
+<<<<<<< HEAD
+=======
+Note that if you make changes too simple TortoiseGit may automatically merge them.
+Now try to push. It turns out that we have our remote repository updated (the merge commit) and we do not have these changes on our local repository.
+Note that if you make changes too simple TortoiseGit may automatically merge them.
+Now try to push. It turns out that we have our remote repository updated (the merge commit) and we do not have these changes on our local repository.
+>>>>>>> a045dda6dc659e5479cc7770cf1cc644cdca5998
