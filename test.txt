@@ -2,3 +2,6 @@
 New repository form: https://github.com/new.
 Choose a name for the repo, e.g. "first-repo". Make sure to "Initialize this repository with a README".
 Upload simple "test.txt" file with sample content inside.
+
+
+Upload with GitBash
